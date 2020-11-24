@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ2542
   title: ལྕེ་བཙུན་སྙིང་ཐིག་གི་ཁྱད་པར་གྱི་ཁྲིད་ཡིག་ལམ་བཟང་ཡེ་ཤེས་སྙིང་པོ
-  volume: ''
+  volume:
+    c711f4d5d9ff4cd89983783c3cae0e16:
+      image_group_id: I1CZ2710
+      title: Volume 1 of lce btsun snying thig gi khyad par gyi khrid yig lam bzang
+        ye shes snying po
+      volume_number: 1
+      total_pages: 248
   author: ''
+ebook_metadata:
+  title: ལྕེ་བཙུན་སྙིང་ཐིག་གི་ཁྱད་པར་གྱི་ཁྲིད་ཡིག་ལམ་བཟང་ཡེ་ཤེས་སྙིང་པོ
+  author: ''
+  sku: P006985
+  cover: cover.jpg
+  layers:
+  - pagination
