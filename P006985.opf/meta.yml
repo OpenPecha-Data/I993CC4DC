@@ -5,11 +5,13 @@ source_metadata:
   title: ལྕེ་བཙུན་སྙིང་ཐིག་གི་ཁྱད་པར་གྱི་ཁྲིད་ཡིག་ལམ་བཟང་ཡེ་ཤེས་སྙིང་པོ
   author: ''
   volumes:
-    e70415b8d35f448e8e57bbbeb1da2be0:
+    c711f4d5d9ff4cd89983783c3cae0e16:
       image_group_id: I1CZ2710
-      title: ''
+      title: Volume 1 of lce btsun snying thig gi khyad par gyi khrid yig lam bzang
+        ye shes snying po
       volume_number: 1
       total_pages: 248
+      base_file: v001.txt
 ebook_metadata:
   title: ལྕེ་བཙུན་སྙིང་ཐིག་གི་ཁྱད་པར་གྱི་ཁྲིད་ཡིག་ལམ་བཟང་ཡེ་ཤེས་སྙིང་པོ
   author: ''
