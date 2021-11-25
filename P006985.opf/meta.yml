@@ -1,5 +1,7 @@
 id: P006985
 initial_creation_type: ocr
+created_at: 29/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1CZ2542
   title: ལྕེ་བཙུན་སྙིང་ཐིག་གི་ཁྱད་པར་གྱི་ཁྲིད་ཡིག་ལམ་བཟང་ཡེ་ཤེས་སྙིང་པོ
@@ -12,10 +14,3 @@ source_metadata:
       volume_number: 1
       total_pages: 248
       base_file: v001.txt
-ebook_metadata:
-  title: ལྕེ་བཙུན་སྙིང་ཐིག་གི་ཁྱད་པར་གྱི་ཁྲིད་ཡིག་ལམ་བཟང་ཡེ་ཤེས་སྙིང་པོ
-  author: ''
-  sku: P006985
-  cover: cover.jpg
-  layers:
-  - pagination
